@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://btn2gddwk0yu4"]
+
+[ext_resource type="PackedScene" uid="uid://dx0gjs8k2gn7l" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_12.prefab.tscn" id="1_ykmsn"]
+
+[node name="Wall Short" type="Node3D"]
+
+[node name="Dungeon_Tilemap_12_1" parent="." instance=ExtResource("1_ykmsn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 0, 0)
+
+[node name="Dungeon_Tilemap_12_2" parent="." instance=ExtResource("1_ykmsn")]
+
+[editable path="Dungeon_Tilemap_12_1"]
+[editable path="Dungeon_Tilemap_12_2"]

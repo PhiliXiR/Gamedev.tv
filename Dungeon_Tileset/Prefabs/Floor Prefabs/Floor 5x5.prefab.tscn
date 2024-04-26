@@ -1,0 +1,22 @@
+[gd_scene load_steps=2 format=3 uid="uid://dr37amc3uvmb"]
+
+[ext_resource type="PackedScene" uid="uid://beg0w34374myq" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Variant.prefab.tscn" id="1_1glpj"]
+
+[node name="Floor 5x5" type="Node3D"]
+
+[node name="Dungeon_Tilemap_00 5x5 Variant (1)" parent="." instance=ExtResource("1_1glpj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, -0.5)
+
+[node name="Dungeon_Tilemap_00 5x5 Variant (2)" parent="." instance=ExtResource("1_1glpj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0, -0.5)
+
+[node name="Dungeon_Tilemap_00 5x5 Variant (3)" parent="." instance=ExtResource("1_1glpj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, 0.5)
+
+[node name="Dungeon_Tilemap_00 5x5 Variant (4)" parent="." instance=ExtResource("1_1glpj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0, 0.5)
+
+[editable path="Dungeon_Tilemap_00 5x5 Variant (1)"]
+[editable path="Dungeon_Tilemap_00 5x5 Variant (2)"]
+[editable path="Dungeon_Tilemap_00 5x5 Variant (3)"]
+[editable path="Dungeon_Tilemap_00 5x5 Variant (4)"]
