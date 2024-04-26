@@ -1,0 +1,22 @@
+[gd_scene load_steps=2 format=3 uid="uid://ptqxrsrrgwnn"]
+
+[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="1_d66p0"]
+
+[node name="Floor 5x5 Border" type="Node3D"]
+
+[node name="Dungeon_Tilemap_00 5x5 Border Variant (1)" parent="." instance=ExtResource("1_d66p0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0, -0.5)
+
+[node name="Dungeon_Tilemap_00 5x5 Border Variant (2)" parent="." instance=ExtResource("1_d66p0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, -0.5)
+
+[node name="Dungeon_Tilemap_00 5x5 Border Variant (3)" parent="." instance=ExtResource("1_d66p0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0, 0.5)
+
+[node name="Dungeon_Tilemap_00 5x5 Border Variant (4)" parent="." instance=ExtResource("1_d66p0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, 0.5)
+
+[editable path="Dungeon_Tilemap_00 5x5 Border Variant (1)"]
+[editable path="Dungeon_Tilemap_00 5x5 Border Variant (2)"]
+[editable path="Dungeon_Tilemap_00 5x5 Border Variant (3)"]
+[editable path="Dungeon_Tilemap_00 5x5 Border Variant (4)"]

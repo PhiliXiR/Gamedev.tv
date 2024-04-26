@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://b4fhdd2gj10f3"]
+
+[ext_resource type="PackedScene" uid="uid://dny6fkc0f7dcr" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_03.prefab.tscn" id="1_o4ant"]
+[ext_resource type="PackedScene" uid="uid://dn5m4ub4takbf" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_05.prefab.tscn" id="2_lia66"]
+[ext_resource type="PackedScene" uid="uid://caytwhbch6r2o" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_01.prefab.tscn" id="3_xupgt"]
+
+[node name="Corner Short Outside" type="Node3D"]
+
+[node name="Dungeon_Tilemap_03" parent="." instance=ExtResource("1_o4ant")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0)
+
+[node name="Dungeon_Tilemap_05" parent="." instance=ExtResource("2_lia66")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1)
+
+[node name="Dungeon_Tilemap_01" parent="." instance=ExtResource("3_xupgt")]
+
+[editable path="Dungeon_Tilemap_03"]
+[editable path="Dungeon_Tilemap_05"]
+[editable path="Dungeon_Tilemap_01"]

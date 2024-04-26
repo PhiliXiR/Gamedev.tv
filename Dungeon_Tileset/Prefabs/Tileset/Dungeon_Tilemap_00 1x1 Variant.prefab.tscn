@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://gfj27m24drvl"]
+
+[ext_resource type="PackedScene" uid="uid://bvclu2jyp0min" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 3x3 Variant.prefab.tscn" id="1_7kmcr"]
+[ext_resource type="Material" uid="uid://bmsbi6r5vy4nn" path="res://Assets/Dungeon_Tileset/Materials/Dungeon_Floor_1x1.mat.tres" id="2_0vy67"]
+
+[node name="Dungeon_Tilemap_00 1x1 Variant" instance=ExtResource("1_7kmcr")]
+
+[node name="MeshRenderer" parent="." index="0"]
+surface_material_override/0 = ExtResource("2_0vy67")
