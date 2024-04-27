@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://d24etmx5g8kb4"]
 
-[ext_resource type="ArrayMesh" uid="uid://ci2bno2viwgua" path="res://Assets/Dungeon_Tileset/Models/Props/Stones.Dungeon_Tilemap_Stone.mesh" id="1_q26gj"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_alph2"]
+[ext_resource type="ArrayMesh" uid="uid://ci2bno2viwgua" path="res://Dungeon_Tileset/Models/Props/Stones.Dungeon_Tilemap_Stone.mesh" id="1_q26gj"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_alph2"]
 
 [node name="Stones" type="Node3D"]
 

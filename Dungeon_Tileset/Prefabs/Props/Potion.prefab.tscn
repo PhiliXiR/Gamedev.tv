@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://kujhvhbknv2"]
 
-[ext_resource type="ArrayMesh" uid="uid://bgeoh228opc3t" path="res://Assets/Dungeon_Tileset/Models/Props/Potion.Potion.mesh" id="1_lypvq"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_4a7l1"]
+[ext_resource type="ArrayMesh" uid="uid://bgeoh228opc3t" path="res://Dungeon_Tileset/Models/Props/Potion.Potion.mesh" id="1_lypvq"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_4a7l1"]
 
 [node name="Potion" type="Node3D"]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxkeajgcpkbvj"
-path.s3tc="res://.godot/imported/Tiles_2x2_roughness.png-5d0d3270ec474dc320dbbb1d915ad584.s3tc.ctex"
+path.s3tc="res://.godot/imported/Tiles_2x2_roughness.png-adf9f1640f8288e5ef88d9b508946c6d.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dungeon_Tileset/textures/Floor_Tiles_2x2/Tiles_2x2_roughness.png"
-dest_files=["res://.godot/imported/Tiles_2x2_roughness.png-5d0d3270ec474dc320dbbb1d915ad584.s3tc.ctex"]
+source_file="res://Dungeon_Tileset/Textures/Floor_Tiles_2x2/Tiles_2x2_roughness.png"
+dest_files=["res://.godot/imported/Tiles_2x2_roughness.png-adf9f1640f8288e5ef88d9b508946c6d.s3tc.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1r6yfs8gx434"
-path.s3tc="res://.godot/imported/Tiles_5x5_Bordered_1_ambientOcclusion.png-2621f4e78eb117e836895d3a671ab191.s3tc.ctex"
+path.s3tc="res://.godot/imported/Tiles_5x5_Bordered_1_ambientOcclusion.png-cb6c14171859d8761916bcedde5515ae.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dungeon_Tileset/textures/Floor_Tiles_5x5_Bordered/Tiles_5x5_Bordered_1_ambientOcclusion.png"
-dest_files=["res://.godot/imported/Tiles_5x5_Bordered_1_ambientOcclusion.png-2621f4e78eb117e836895d3a671ab191.s3tc.ctex"]
+source_file="res://Dungeon_Tileset/Textures/Floor_Tiles_5x5_Bordered/Tiles_5x5_Bordered_1_ambientOcclusion.png"
+dest_files=["res://.godot/imported/Tiles_5x5_Bordered_1_ambientOcclusion.png-cb6c14171859d8761916bcedde5515ae.s3tc.ctex"]
 
 [params]
 

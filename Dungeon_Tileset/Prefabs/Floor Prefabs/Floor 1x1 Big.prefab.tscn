@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://c2hx5nmg5lsfb"]
 
-[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="1_d4k0j"]
+[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="1_d4k0j"]
 
 [node name="Floor 1x1 Big" type="Node3D"]
 

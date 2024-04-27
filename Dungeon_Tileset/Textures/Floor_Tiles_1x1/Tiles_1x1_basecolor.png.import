@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtssk7oate3i1"
-path.s3tc="res://.godot/imported/Tiles_1x1_basecolor.png-68f63335d948c731a948d27930949731.s3tc.ctex"
+path.s3tc="res://.godot/imported/Tiles_1x1_basecolor.png-7aaf5b153fbaafcdcdcd5902f31aa0c4.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dungeon_Tileset/textures/Floor_Tiles_1x1/Tiles_1x1_basecolor.png"
-dest_files=["res://.godot/imported/Tiles_1x1_basecolor.png-68f63335d948c731a948d27930949731.s3tc.ctex"]
+source_file="res://Dungeon_Tileset/Textures/Floor_Tiles_1x1/Tiles_1x1_basecolor.png"
+dest_files=["res://.godot/imported/Tiles_1x1_basecolor.png-7aaf5b153fbaafcdcdcd5902f31aa0c4.s3tc.ctex"]
 
 [params]
 

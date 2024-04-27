@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dq3mxea7klv8p"]
 
-[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="1_xewy3"]
+[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="1_xewy3"]
 
 [node name="Floor 1x1" type="Node3D"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, -11)

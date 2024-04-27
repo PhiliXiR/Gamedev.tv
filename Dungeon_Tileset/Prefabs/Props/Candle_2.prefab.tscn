@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://ct1aa30tahwdf"]
 
-[ext_resource type="ArrayMesh" uid="uid://cbwgin6xwhf1l" path="res://Assets/Dungeon_Tileset/Models/Props/Candle_2.Candle_2.mesh" id="1_ymroh"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_6i3w4"]
+[ext_resource type="ArrayMesh" uid="uid://cbwgin6xwhf1l" path="res://Dungeon_Tileset/Models/Props/Candle_2.Candle_2.mesh" id="1_ymroh"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_6i3w4"]
 
 [node name="Candle_2" type="Node3D"]
 

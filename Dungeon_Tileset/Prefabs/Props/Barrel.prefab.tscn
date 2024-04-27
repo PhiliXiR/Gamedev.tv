@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cp3erpop5878w"]
 
-[ext_resource type="ArrayMesh" uid="uid://by6xvdvseqkcj" path="res://Assets/Dungeon_Tileset/Models/Props/Barrel.Barrel.mesh" id="1_3enen"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_y2laj"]
+[ext_resource type="ArrayMesh" uid="uid://by6xvdvseqkcj" path="res://Dungeon_Tileset/Models/Props/Barrel.Barrel.mesh" id="1_3enen"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_y2laj"]
 
 [node name="Barrel" type="Node3D"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.73021, 0.304221, 19.5395)

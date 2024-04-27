@@ -1,14 +1,9 @@
-[gd_scene load_steps=3 format=3 uid="uid://c741ifcml7gmg"]
-
-[ext_resource type="ArrayMesh" uid="uid://4cuguowe1cy3" path="res://Assets/Dungeon_Tileset/Models/Props/Wall_Chain_2.Wall_Chain_2.mesh" id="1_syahm"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_nnr5h"]
+[gd_scene format=3 uid="uid://c741ifcml7gmg"]
 
 [node name="Wall_Chain_2" type="Node3D"]
 
 [node name="MeshRenderer" type="MeshInstance3D" parent="."]
 editor_description = "[MeshRenderer 23::72d0f5f7cc0aa2a4395c39b6f55e08f1:4307259606287529575]"
-mesh = ExtResource("1_syahm")
-surface_material_override/0 = ExtResource("2_nnr5h")
 metadata/unidot_keys = {
 "m_AdditionalVertexStreams": [null, 0, null, null],
 "m_AutoUVMaxAngle": 89,
