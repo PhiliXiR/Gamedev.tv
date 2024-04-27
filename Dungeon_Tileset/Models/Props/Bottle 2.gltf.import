@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://0n5bf83audl"
-path="res://.godot/imported/Bottle 2.gltf-471c5c64a165d603bf12c40cbcdb2d8b.scn"
+path="res://.godot/imported/Bottle 2.gltf-37e5f63d2e49f7132dad5cf61285e49c.scn"
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Models/Props/Bottle 2.gltf"
-dest_files=["res://.godot/imported/Bottle 2.gltf-471c5c64a165d603bf12c40cbcdb2d8b.scn"]
+source_file="res://Dungeon_Tileset/Models/Props/Bottle 2.gltf"
+dest_files=["res://.godot/imported/Bottle 2.gltf-37e5f63d2e49f7132dad5cf61285e49c.scn"]
 
 [params]
 
@@ -22,6 +22,7 @@ meshes/generate_lods=true
 meshes/create_shadow_meshes=false
 meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
 skins/use_named_skins=true
 animation/import=true
 animation/fps=30
@@ -38,4 +39,5 @@ _subresources={
 }
 }
 }
+gltf/naming_version=0
 gltf/embedded_image_handling=1
