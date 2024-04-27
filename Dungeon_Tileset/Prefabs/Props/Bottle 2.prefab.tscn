@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://rw1m0hnh08hp"]
 
-[ext_resource type="ArrayMesh" uid="uid://dkdly1of1f883" path="res://Assets/Dungeon_Tileset/Models/Props/Bottle 2.Bottle.mesh" id="1_4dxb6"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_cbv0f"]
+[ext_resource type="ArrayMesh" uid="uid://dkdly1of1f883" path="res://Dungeon_Tileset/Models/Props/Bottle 2.Bottle.mesh" id="1_4dxb6"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_cbv0f"]
 
 [node name="Bottle 2" type="Node3D"]
 

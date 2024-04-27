@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://6gxqkoehteql"]
 
-[ext_resource type="ArrayMesh" uid="uid://dq83pvd8mfmvb" path="res://Assets/Dungeon_Tileset/Models/Props/Wall_Chain.Wall_Chain.mesh" id="1_dgag8"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_56kjq"]
+[ext_resource type="ArrayMesh" uid="uid://dq83pvd8mfmvb" path="res://Dungeon_Tileset/Models/Props/Wall_Chain.Wall_Chain.mesh" id="1_dgag8"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_56kjq"]
 
 [node name="Wall_Chain" type="Node3D"]
 

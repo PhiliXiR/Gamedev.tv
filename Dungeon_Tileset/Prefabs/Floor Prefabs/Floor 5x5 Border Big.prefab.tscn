@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cltegpgfg8pyr"]
 
-[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="1_exchy"]
+[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="1_exchy"]
 
 [node name="Floor 5x5 Border Big" type="Node3D"]
 

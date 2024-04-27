@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cfjloxavvfnj"]
 
-[ext_resource type="ArrayMesh" uid="uid://cb5mukxsci4hn" path="res://Assets/Dungeon_Tileset/Models/Props/Torch.Torch.mesh" id="1_mmb0l"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_wg8pb"]
+[ext_resource type="ArrayMesh" uid="uid://cb5mukxsci4hn" path="res://Dungeon_Tileset/Models/Props/Torch.Torch.mesh" id="1_mmb0l"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_wg8pb"]
 
 [node name="Torch" type="Node3D"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.73021, 0.0940027, 19.5395)

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://divi7wa4mm4b7"
-path.s3tc="res://.godot/imported/Colour-palette.png-923019590cc562c314155ba82434996d.s3tc.ctex"
+path.s3tc="res://.godot/imported/Colour-palette.png-91214615cd662026398d961cb8d72f3f.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dungeon_Tileset/textures/Colour-palette.png"
-dest_files=["res://.godot/imported/Colour-palette.png-923019590cc562c314155ba82434996d.s3tc.ctex"]
+source_file="res://Dungeon_Tileset/Textures/Colour-palette.png"
+dest_files=["res://.godot/imported/Colour-palette.png-91214615cd662026398d961cb8d72f3f.s3tc.ctex"]
 
 [params]
 

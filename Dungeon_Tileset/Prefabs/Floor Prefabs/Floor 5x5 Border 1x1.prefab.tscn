@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://b5xoexfmxschf"]
 
-[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="1_xv5uo"]
-[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="2_rqxtr"]
+[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="1_xv5uo"]
+[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="2_rqxtr"]
 
 [node name="Floor 5x5 Border 1x1" type="Node3D"]
 

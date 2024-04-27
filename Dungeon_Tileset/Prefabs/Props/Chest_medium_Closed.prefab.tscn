@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://mfrqalfil5xf"]
 
-[ext_resource type="ArrayMesh" uid="uid://c3rpri58gril0" path="res://Assets/Dungeon_Tileset/Models/Props/Chest_medium_Closed.Chest_medium_Closed.mesh" id="1_yw353"]
-[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Assets/Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_rus5u"]
+[ext_resource type="ArrayMesh" uid="uid://c3rpri58gril0" path="res://Dungeon_Tileset/Models/Props/Chest_medium_Closed.Chest_medium_Closed.mesh" id="1_yw353"]
+[ext_resource type="Material" uid="uid://djlo6ysh0dsde" path="res://Dungeon_Tileset/Materials/Colour-palette.mat.tres" id="2_rus5u"]
 
 [node name="Chest_medium_Closed" type="Node3D"]
 

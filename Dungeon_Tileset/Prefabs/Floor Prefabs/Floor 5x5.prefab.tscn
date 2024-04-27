@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dr37amc3uvmb"]
 
-[ext_resource type="PackedScene" uid="uid://beg0w34374myq" path="res://Assets/Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Variant.prefab.tscn" id="1_1glpj"]
+[ext_resource type="PackedScene" uid="uid://beg0w34374myq" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Variant.prefab.tscn" id="1_1glpj"]
 
 [node name="Floor 5x5" type="Node3D"]
 

@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://sgjy42m4o25f"]
 
-[ext_resource type="ArrayMesh" uid="uid://c0gveh414blum" path="res://Assets/Dungeon_Tileset/Models/Dungeon_Tilemap_09.Dungeon_Tilemap_09.mesh" id="1_plyvy"]
-[ext_resource type="Material" uid="uid://cy03g71xjmlu2" path="res://Assets/Dungeon_Tileset/Materials/Dungeon_Floor_2x2.mat.tres" id="2_ho6dr"]
-[ext_resource type="Material" uid="uid://2g42luu67pfs" path="res://Assets/Dungeon_Tileset/Materials/Dungeon Wall.mat.tres" id="3_fg1qi"]
+[ext_resource type="ArrayMesh" uid="uid://c0gveh414blum" path="res://Dungeon_Tileset/Models/Dungeon_Tilemap_09.Dungeon_Tilemap_09.mesh" id="1_plyvy"]
+[ext_resource type="Material" uid="uid://cy03g71xjmlu2" path="res://Dungeon_Tileset/Materials/Dungeon_Floor_2x2.mat.tres" id="2_ho6dr"]
+[ext_resource type="Material" uid="uid://2g42luu67pfs" path="res://Dungeon_Tileset/Materials/Dungeon Wall.mat.tres" id="3_fg1qi"]
 
 [node name="Dungeon_Tilemap_09" type="Node3D"]
 
