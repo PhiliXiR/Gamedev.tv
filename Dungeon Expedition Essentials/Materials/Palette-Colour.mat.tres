@@ -1,0 +1,125 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dlb7w2eytujpf"]
+
+[ext_resource type="Texture2D" uid="uid://c654ipya0omrw" path="res://Assets/Dungeon Expedition Essentials/Textures/Palette-Colour.png" id="1_gsbmp"]
+
+[resource]
+resource_name = "Palette-Colour"
+depth_draw_mode = 1
+albedo_texture = ExtResource("1_gsbmp")
+roughness = 0.5
+uv1_scale = Vector3(1, 1, 0)
+metadata/unidot_keys = {
+"disabledShaderPasses": [],
+"m_BuildTextureStacks": [],
+"m_CorrespondingSourceObject": [null, 0, null, null],
+"m_CustomRenderQueue": -1,
+"m_DoubleSidedGI": 0,
+"m_EnableInstancingVariants": 0,
+"m_InvalidKeywords": [],
+"m_LightmapFlags": 2,
+"m_Name": "Palette-Colour",
+"m_ObjectHideFlags": 0,
+"m_PrefabAsset": [null, 0, null, null],
+"m_PrefabInstance": [null, 0, null, null],
+"m_SavedProperties": {
+"m_Colors": [{
+"_Color": Color(1, 1, 1, 1)
+}, {
+"_EmissionColor": Color(0.388235, 0.321158, 0.0772405, 1)
+}],
+"m_Floats": [{
+"_BumpScale": 1
+}, {
+"_Cutoff": 0.5
+}, {
+"_DetailNormalMapScale": 1
+}, {
+"_DstBlend": 0
+}, {
+"_GlossMapScale": 1
+}, {
+"_Glossiness": 0.5
+}, {
+"_GlossyReflections": 1
+}, {
+"_Metallic": 0
+}, {
+"_Mode": 0
+}, {
+"_OcclusionStrength": 1
+}, {
+"_Parallax": 0.02
+}, {
+"_SmoothnessTextureChannel": 0
+}, {
+"_SpecularHighlights": 1
+}, {
+"_SrcBlend": 1
+}, {
+"_UVSec": 0
+}, {
+"_ZWrite": 1
+}],
+"m_Ints": [],
+"m_TexEnvs": [{
+"_BumpMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 0, null, null]
+}
+}, {
+"_DetailAlbedoMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 0, null, null]
+}
+}, {
+"_DetailMask": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 0, null, null]
+}
+}, {
+"_DetailNormalMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 0, null, null]
+}
+}, {
+"_EmissionMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 2800000, "34d684cce182f344db5d1d426d7e22f8", 3]
+}
+}, {
+"_MainTex": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 2800000, "764d855642d676f4d8553ef8d154990c", 3]
+}
+}, {
+"_MetallicGlossMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 2800000, "22f294f5c4e1731448e4fe8029c007a9", 3]
+}
+}, {
+"_OcclusionMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 0, null, null]
+}
+}, {
+"_ParallaxMap": {
+"m_Offset": Vector2(0, 0),
+"m_Scale": Vector2(1, 1),
+"m_Texture": [null, 0, null, null]
+}
+}],
+"serializedVersion": 3
+},
+"m_Shader": [null, 46, "0000000000000000f000000000000000", 0],
+"m_ValidKeywords": ["_EMISSION", "_METALLICGLOSSMAP"],
+"serializedVersion": 8,
+"stringTagMap": []
+}
