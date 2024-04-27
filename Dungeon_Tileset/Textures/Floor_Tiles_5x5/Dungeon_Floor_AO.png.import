@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blvxerlmat3ns"
-path.s3tc="res://.godot/imported/Dungeon_Floor_AO.png-dcb021f376cc4e4ab7aa6cf946f42177.s3tc.ctex"
+path.s3tc="res://.godot/imported/Dungeon_Floor_AO.png-cf543502af20b8cd522b3976883eece1.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Textures/Floor_Tiles_5x5/Dungeon_Floor_AO.png"
-dest_files=["res://.godot/imported/Dungeon_Floor_AO.png-dcb021f376cc4e4ab7aa6cf946f42177.s3tc.ctex"]
+source_file="res://Dungeon_Tileset/textures/Floor_Tiles_5x5/Dungeon_Floor_AO.png"
+dest_files=["res://.godot/imported/Dungeon_Floor_AO.png-cf543502af20b8cd522b3976883eece1.s3tc.ctex"]
 
 [params]
 

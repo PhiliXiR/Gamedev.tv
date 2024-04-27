@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b7rsjnvf8w7d0"
-path="res://.godot/imported/Chest_medium.gltf-dcac753b3bc10d1fd7842e206c69a008.scn"
+path="res://.godot/imported/Chest_medium.gltf-b3a1585fb42e9acb16b2a61f441ebaa6.scn"
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Models/Props/Chest_medium.gltf"
-dest_files=["res://.godot/imported/Chest_medium.gltf-dcac753b3bc10d1fd7842e206c69a008.scn"]
+source_file="res://Dungeon_Tileset/Models/Props/Chest_medium.gltf"
+dest_files=["res://.godot/imported/Chest_medium.gltf-b3a1585fb42e9acb16b2a61f441ebaa6.scn"]
 
 [params]
 
@@ -22,6 +22,7 @@ meshes/generate_lods=true
 meshes/create_shadow_meshes=false
 meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
 skins/use_named_skins=true
 animation/import=true
 animation/fps=30
@@ -38,4 +39,5 @@ _subresources={
 }
 }
 }
+gltf/naming_version=0
 gltf/embedded_image_handling=1

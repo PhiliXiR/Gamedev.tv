@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://4cuguowe1cy3"
-path="res://.godot/imported/Stones.gltf-3df9cfe783808272de6097507d7f5f1a.scn"
+path="res://.godot/imported/Stones.gltf-24c6b87de2f76fc6e30c137db16db243.scn"
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Models/Props/Stones.gltf"
-dest_files=["res://.godot/imported/Stones.gltf-3df9cfe783808272de6097507d7f5f1a.scn"]
+source_file="res://Dungeon_Tileset/Models/Props/Stones.gltf"
+dest_files=["res://.godot/imported/Stones.gltf-24c6b87de2f76fc6e30c137db16db243.scn"]
 
 [params]
 
@@ -22,6 +22,7 @@ meshes/generate_lods=true
 meshes/create_shadow_meshes=false
 meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
 skins/use_named_skins=true
 animation/import=true
 animation/fps=30
@@ -38,4 +39,5 @@ _subresources={
 }
 }
 }
+gltf/naming_version=0
 gltf/embedded_image_handling=1

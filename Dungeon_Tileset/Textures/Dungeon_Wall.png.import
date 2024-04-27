@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddkbi4nokvcvd"
-path.s3tc="res://.godot/imported/Dungeon_Wall.png-f51354f5c081ea3eec7c5b4ffdc50812.s3tc.ctex"
+path.s3tc="res://.godot/imported/Dungeon_Wall.png-02f118ae851ae231a3105aa3d50e652e.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Textures/Dungeon_Wall.png"
-dest_files=["res://.godot/imported/Dungeon_Wall.png-f51354f5c081ea3eec7c5b4ffdc50812.s3tc.ctex"]
+source_file="res://Dungeon_Tileset/textures/Dungeon_Wall.png"
+dest_files=["res://.godot/imported/Dungeon_Wall.png-02f118ae851ae231a3105aa3d50e652e.s3tc.ctex"]
 
 [params]
 

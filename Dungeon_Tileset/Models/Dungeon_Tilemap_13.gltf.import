@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b2j3bsma6xgkh"
-path="res://.godot/imported/Dungeon_Tilemap_13.gltf-f898573a423a31bffcf517f7befbfe17.scn"
+path="res://.godot/imported/Dungeon_Tilemap_13.gltf-db2bf32da1b995cbaf440f7a5e36fda2.scn"
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Models/Dungeon_Tilemap_13.gltf"
-dest_files=["res://.godot/imported/Dungeon_Tilemap_13.gltf-f898573a423a31bffcf517f7befbfe17.scn"]
+source_file="res://Dungeon_Tileset/Models/Dungeon_Tilemap_13.gltf"
+dest_files=["res://.godot/imported/Dungeon_Tilemap_13.gltf-db2bf32da1b995cbaf440f7a5e36fda2.scn"]
 
 [params]
 
@@ -22,6 +22,7 @@ meshes/generate_lods=true
 meshes/create_shadow_meshes=false
 meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
 skins/use_named_skins=true
 animation/import=true
 animation/fps=30
@@ -38,4 +39,5 @@ _subresources={
 }
 }
 }
+gltf/naming_version=0
 gltf/embedded_image_handling=1

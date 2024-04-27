@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dow08s41v5i78"
-path="res://.godot/imported/Wall_Chain_2.gltf-a4e3178be7fd6af4761ae423e7c5d7bc.scn"
+path="res://.godot/imported/Wall_Chain_2.gltf-0f3af9ed7912ccb41f318997448126dd.scn"
 
 [deps]
 
-source_file="res://Assets/Dungeon_Tileset/Models/Props/Wall_Chain_2.gltf"
-dest_files=["res://.godot/imported/Wall_Chain_2.gltf-a4e3178be7fd6af4761ae423e7c5d7bc.scn"]
+source_file="res://Dungeon_Tileset/Models/Props/Wall_Chain_2.gltf"
+dest_files=["res://.godot/imported/Wall_Chain_2.gltf-0f3af9ed7912ccb41f318997448126dd.scn"]
 
 [params]
 
@@ -22,6 +22,7 @@ meshes/generate_lods=true
 meshes/create_shadow_meshes=false
 meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
 skins/use_named_skins=true
 animation/import=true
 animation/fps=30
@@ -38,4 +39,5 @@ _subresources={
 }
 }
 }
+gltf/naming_version=0
 gltf/embedded_image_handling=1
