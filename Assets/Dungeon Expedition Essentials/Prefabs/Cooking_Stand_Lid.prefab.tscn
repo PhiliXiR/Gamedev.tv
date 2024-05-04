@@ -1,0 +1,53 @@
+[gd_scene load_steps=3 format=3 uid="uid://bnvxq0oduty4n"]
+
+[ext_resource type="ArrayMesh" uid="uid://cs6q4y5n5llxt" path="res://Assets/Dungeon Expedition Essentials/Models/Cooking_Stand_Lid.Cooking_Stand_Lid.mesh" id="1_k5vbo"]
+[ext_resource type="Material" uid="uid://dlb7w2eytujpf" path="res://Assets/Dungeon Expedition Essentials/Materials/Palette-Colour.mat.tres" id="2_akhyw"]
+
+[node name="Cooking_Stand_Lid" type="Node3D"]
+
+[node name="MeshRenderer" type="MeshInstance3D" parent="."]
+editor_description = "[MeshRenderer 23::7592713f0b7390c41ace4a8347ad681f:2505578482619708054]"
+mesh = ExtResource("1_k5vbo")
+surface_material_override/0 = ExtResource("2_akhyw")
+metadata/unidot_keys = {
+"m_AdditionalVertexStreams": [null, 0, null, null],
+"m_AutoUVMaxAngle": 89,
+"m_AutoUVMaxDistance": 0.5,
+"m_CastShadows": 1,
+"m_CorrespondingSourceObject": [null, 0, null, null],
+"m_DynamicOccludee": 1,
+"m_Enabled": 1,
+"m_GameObject": [null, 4162845764970042179, null, null],
+"m_IgnoreNormalsForChartDetection": 0,
+"m_ImportantGI": 0,
+"m_LightProbeUsage": 1,
+"m_LightProbeVolumeOverride": [null, 0, null, null],
+"m_LightmapParameters": [null, 0, null, null],
+"m_Materials": [[null, 2100000, "9c765f074024dcd4689421e0376d134c", 2]],
+"m_MinimumChartSize": 4,
+"m_MotionVectors": 1,
+"m_ObjectHideFlags": 0,
+"m_PrefabAsset": [null, 0, null, null],
+"m_PrefabInstance": [null, 0, null, null],
+"m_PreserveUVs": 0,
+"m_ProbeAnchor": [null, 0, null, null],
+"m_RayTraceProcedural": 0,
+"m_RayTracingMode": 2,
+"m_ReceiveGI": 1,
+"m_ReceiveShadows": 1,
+"m_ReflectionProbeUsage": 1,
+"m_RendererPriority": 0,
+"m_RenderingLayerMask": 1,
+"m_ScaleInLightmap": 1,
+"m_SelectedEditorRenderState": 3,
+"m_SortingLayer": 0,
+"m_SortingLayerID": 0,
+"m_SortingOrder": 0,
+"m_StaticBatchInfo": {
+"firstSubMesh": 0,
+"subMeshCount": 0
+},
+"m_StaticBatchRoot": [null, 0, null, null],
+"m_StaticShadowCaster": 0,
+"m_StitchLightmapSeams": 1
+}
