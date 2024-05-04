@@ -1,73 +1,73 @@
-[gd_scene load_steps=74 format=3 uid="uid://b7sj18rn21rok"]
+[gd_scene load_steps=74 format=3 uid="uid://clw1ave1ijep1"]
 
-[ext_resource type="PackedScene" uid="uid://bdcm02fclse7t" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_08.prefab.tscn" id="1_vb8f1"]
-[ext_resource type="PackedScene" uid="uid://nnbk422qlsr8" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Long Outside.prefab.tscn" id="2_lrj6l"]
-[ext_resource type="PackedScene" uid="uid://cltegpgfg8pyr" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border Big.prefab.tscn" id="3_2x7kx"]
-[ext_resource type="PackedScene" uid="uid://r8svvfqkf7tj" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Medium Outside.prefab.tscn" id="4_6dgma"]
-[ext_resource type="PackedScene" uid="uid://mk1a5n6r1cy" path="res://Dungeon_Tileset/Prefabs/Wall Prefabs/Wall Long.prefab.tscn" id="5_6a0yl"]
-[ext_resource type="PackedScene" uid="uid://dq3mxea7klv8p" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 1x1.prefab.tscn" id="6_xr728"]
-[ext_resource type="PackedScene" uid="uid://dro5lchkktb7e" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 3x3.prefab.tscn" id="7_6330h"]
-[ext_resource type="PackedScene" uid="uid://bkt26a1qm41b8" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Big.prefab.tscn" id="8_p11ft"]
-[ext_resource type="PackedScene" uid="uid://cp3erpop5878w" path="res://Dungeon_Tileset/Prefabs/Props/Barrel.prefab.tscn" id="9_jemha"]
-[ext_resource type="PackedScene" uid="uid://2o8vg7yql0xk" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 3x3 Big.prefab.tscn" id="10_ca7s5"]
-[ext_resource type="PackedScene" uid="uid://dr37amc3uvmb" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5.prefab.tscn" id="11_eu6gw"]
-[ext_resource type="PackedScene" uid="uid://b4fhdd2gj10f3" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Short Outside.prefab.tscn" id="12_mmlce"]
-[ext_resource type="PackedScene" uid="uid://cu0kp8150cmyl" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border 5x5.prefab.tscn" id="13_0lsay"]
-[ext_resource type="PackedScene" uid="uid://b5xoexfmxschf" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border 1x1.prefab.tscn" id="14_82l2d"]
-[ext_resource type="PackedScene" uid="uid://ceo0wux5w3gb1" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Long Inside.prefab.tscn" id="15_07e7v"]
-[ext_resource type="PackedScene" uid="uid://btn2gddwk0yu4" path="res://Dungeon_Tileset/Prefabs/Wall Prefabs/Wall Short.prefab.tscn" id="16_sstwi"]
-[ext_resource type="PackedScene" uid="uid://ptqxrsrrgwnn" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border.prefab.tscn" id="17_0pb3u"]
-[ext_resource type="PackedScene" uid="uid://uidtl2hnk0ry" path="res://Dungeon_Tileset/Prefabs/Wall Prefabs/Wall Medium.prefab.tscn" id="18_26sks"]
-[ext_resource type="PackedScene" uid="uid://c13wlvopqbbwu" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Medium Inside.prefab.tscn" id="19_2y8u8"]
-[ext_resource type="PackedScene" uid="uid://ckoxsbl2pmunj" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 2x2.prefab.tscn" id="20_pbnkj"]
-[ext_resource type="PackedScene" uid="uid://dqma86pxwol57" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Short Inside.prefab.tscn" id="21_d7qsw"]
-[ext_resource type="PackedScene" uid="uid://n6sdh3gbi6ly" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 2x2 Big.prefab.tscn" id="22_khais"]
-[ext_resource type="PackedScene" uid="uid://c2hx5nmg5lsfb" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 1x1 Big.prefab.tscn" id="23_7n7en"]
-[ext_resource type="PackedScene" uid="uid://b0hlao601sca2" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_06.prefab.tscn" id="24_kwmy2"]
-[ext_resource type="PackedScene" uid="uid://bduqd2cie23d1" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_07.prefab.tscn" id="25_xkh5q"]
-[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="26_5dbkp"]
-[ext_resource type="PackedScene" uid="uid://4bu22mx1u1ft" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_14.prefab.tscn" id="27_u3kbs"]
-[ext_resource type="PackedScene" uid="uid://c741ifcml7gmg" path="res://Dungeon_Tileset/Prefabs/Props/Wall_Chain_2.prefab.tscn" id="28_kxu3d"]
-[ext_resource type="PackedScene" uid="uid://xk0d5f8dday1" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 2x2.prefab.tscn" id="29_f7ngo"]
-[ext_resource type="PackedScene" uid="uid://beg0w34374myq" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Variant.prefab.tscn" id="30_71k7m"]
-[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="31_xw3ss"]
-[ext_resource type="PackedScene" uid="uid://dx0gjs8k2gn7l" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_12.prefab.tscn" id="32_8l64x"]
-[ext_resource type="PackedScene" uid="uid://cncuahageq8q5" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_10.prefab.tscn" id="33_w84hs"]
-[ext_resource type="PackedScene" uid="uid://d3hwbgcdl1rnu" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_02.prefab.tscn" id="34_fkomi"]
-[ext_resource type="PackedScene" uid="uid://caytwhbch6r2o" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_01.prefab.tscn" id="35_yie8g"]
-[ext_resource type="PackedScene" uid="uid://bvclu2jyp0min" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 3x3 Variant.prefab.tscn" id="36_etc7f"]
-[ext_resource type="PackedScene" uid="uid://bet4lohgpfjct" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_11.prefab.tscn" id="37_kvl2t"]
-[ext_resource type="PackedScene" uid="uid://b0b61o83f2iig" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_04.prefab.tscn" id="38_5whsd"]
-[ext_resource type="PackedScene" uid="uid://dny6fkc0f7dcr" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_03.prefab.tscn" id="39_w21od"]
-[ext_resource type="PackedScene" uid="uid://fwrtw4187avs" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_13.prefab.tscn" id="40_3pvrm"]
-[ext_resource type="PackedScene" uid="uid://dn5m4ub4takbf" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_05.prefab.tscn" id="41_ecxnf"]
-[ext_resource type="PackedScene" uid="uid://sgjy42m4o25f" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_09.prefab.tscn" id="42_ny34a"]
-[ext_resource type="PackedScene" uid="uid://6gxqkoehteql" path="res://Dungeon_Tileset/Prefabs/Props/Wall_Chain.prefab.tscn" id="43_u5e1h"]
-[ext_resource type="PackedScene" uid="uid://cfjloxavvfnj" path="res://Dungeon_Tileset/Prefabs/Props/Torch.prefab.tscn" id="44_cny1v"]
-[ext_resource type="PackedScene" uid="uid://3h887hqe6pye" path="res://Dungeon_Tileset/Prefabs/Props/Pillar_3.prefab.tscn" id="45_lv0ni"]
-[ext_resource type="PackedScene" uid="uid://dck2wv1s43h54" path="res://Dungeon_Tileset/Prefabs/Props/Pillar_1.prefab.tscn" id="46_211yt"]
-[ext_resource type="PackedScene" uid="uid://cxgapi8nfk8ad" path="res://Dungeon_Tileset/Prefabs/Props/Pillar_2.prefab.tscn" id="47_35uv3"]
-[ext_resource type="PackedScene" uid="uid://b26illfnk2qo7" path="res://Dungeon_Tileset/Prefabs/Props/Crate Brown.prefab.tscn" id="48_6knq8"]
-[ext_resource type="PackedScene" uid="uid://dfh84cylewjy5" path="res://Dungeon_Tileset/Prefabs/Props/Book.prefab.tscn" id="49_eo282"]
-[ext_resource type="PackedScene" uid="uid://dcltbec7ccgov" path="res://Dungeon_Tileset/Prefabs/Props/Bottle.prefab.tscn" id="50_jls88"]
-[ext_resource type="PackedScene" uid="uid://dokdjgl7tlsby" path="res://Dungeon_Tileset/Prefabs/Props/Candle_1.prefab.tscn" id="51_v5j06"]
-[ext_resource type="PackedScene" uid="uid://ct1aa30tahwdf" path="res://Dungeon_Tileset/Prefabs/Props/Candle_2.prefab.tscn" id="52_ekppb"]
-[ext_resource type="PackedScene" uid="uid://bhbjjv40h8n8f" path="res://Dungeon_Tileset/Prefabs/Props/Candle_3.prefab.tscn" id="53_6hjqp"]
-[ext_resource type="PackedScene" uid="uid://wnij2ftvkibi" path="res://Dungeon_Tileset/Prefabs/Props/Candle_Holder.prefab.tscn" id="54_xcvde"]
-[ext_resource type="PackedScene" uid="uid://kujhvhbknv2" path="res://Dungeon_Tileset/Prefabs/Props/Potion.prefab.tscn" id="55_r64id"]
-[ext_resource type="PackedScene" uid="uid://bo4cpcmxevkn6" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big.prefab.tscn" id="56_2tkjl"]
-[ext_resource type="PackedScene" uid="uid://xbvp11fgmsp7" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big_Closed.prefab.tscn" id="57_eawmq"]
-[ext_resource type="PackedScene" uid="uid://chbuxjv0dhk4w" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big_gold.prefab.tscn" id="58_gqwhr"]
-[ext_resource type="PackedScene" uid="uid://dgcc7688g6kui" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big_Lid.prefab.tscn" id="59_o3wrs"]
-[ext_resource type="PackedScene" uid="uid://bom2bcmo7g461" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium.prefab.tscn" id="60_v2gca"]
-[ext_resource type="PackedScene" uid="uid://mfrqalfil5xf" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium_Closed.prefab.tscn" id="61_yyyxb"]
-[ext_resource type="PackedScene" uid="uid://cqmg644xp2d6k" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium_gold.prefab.tscn" id="62_gvqyv"]
-[ext_resource type="PackedScene" uid="uid://763uet1lga64" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium_Lid.prefab.tscn" id="63_exi1x"]
-[ext_resource type="PackedScene" uid="uid://rw1m0hnh08hp" path="res://Dungeon_Tileset/Prefabs/Props/Bottle 2.prefab.tscn" id="64_s6q03"]
-[ext_resource type="PackedScene" uid="uid://d24etmx5g8kb4" path="res://Dungeon_Tileset/Prefabs/Props/Stones.prefab.tscn" id="65_vm5qp"]
-[ext_resource type="Material" uid="uid://colk15vxsvje2" path="res://Dungeon_Tileset/Materials/GDTV Green.mat.tres" id="66_x4tu3"]
-[ext_resource type="PackedScene" uid="uid://vwr8ajoufse8" path="res://Controller/Player.tscn" id="67_46ati"]
-[ext_resource type="FontFile" uid="uid://ij353qf6fdpf" path="res://UserInterface/Font/Staatliches-Regular.ttf" id="67_ql604"]
+[ext_resource type="PackedScene" uid="uid://bdcm02fclse7t" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_08.prefab.tscn" id="1_pq2eq"]
+[ext_resource type="PackedScene" uid="uid://nnbk422qlsr8" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Long Outside.prefab.tscn" id="2_isgly"]
+[ext_resource type="PackedScene" uid="uid://cltegpgfg8pyr" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border Big.prefab.tscn" id="3_dth3x"]
+[ext_resource type="PackedScene" uid="uid://r8svvfqkf7tj" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Medium Outside.prefab.tscn" id="4_2v4jt"]
+[ext_resource type="PackedScene" uid="uid://mk1a5n6r1cy" path="res://Dungeon_Tileset/Prefabs/Wall Prefabs/Wall Long.prefab.tscn" id="5_w0o51"]
+[ext_resource type="PackedScene" uid="uid://dq3mxea7klv8p" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 1x1.prefab.tscn" id="6_rq6k3"]
+[ext_resource type="PackedScene" uid="uid://dro5lchkktb7e" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 3x3.prefab.tscn" id="7_1r4ob"]
+[ext_resource type="PackedScene" uid="uid://bkt26a1qm41b8" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Big.prefab.tscn" id="8_7bgvc"]
+[ext_resource type="PackedScene" uid="uid://cp3erpop5878w" path="res://Dungeon_Tileset/Prefabs/Props/Barrel.prefab.tscn" id="9_671jo"]
+[ext_resource type="PackedScene" uid="uid://2o8vg7yql0xk" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 3x3 Big.prefab.tscn" id="10_10si5"]
+[ext_resource type="PackedScene" uid="uid://dr37amc3uvmb" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5.prefab.tscn" id="11_0pnrs"]
+[ext_resource type="PackedScene" uid="uid://b4fhdd2gj10f3" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Short Outside.prefab.tscn" id="12_44hfc"]
+[ext_resource type="PackedScene" uid="uid://cu0kp8150cmyl" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border 5x5.prefab.tscn" id="13_3wism"]
+[ext_resource type="PackedScene" uid="uid://b5xoexfmxschf" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border 1x1.prefab.tscn" id="14_t48ph"]
+[ext_resource type="PackedScene" uid="uid://ceo0wux5w3gb1" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Long Inside.prefab.tscn" id="15_ri2o3"]
+[ext_resource type="PackedScene" uid="uid://btn2gddwk0yu4" path="res://Dungeon_Tileset/Prefabs/Wall Prefabs/Wall Short.prefab.tscn" id="16_l6sfx"]
+[ext_resource type="PackedScene" uid="uid://ptqxrsrrgwnn" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 5x5 Border.prefab.tscn" id="17_dmkos"]
+[ext_resource type="PackedScene" uid="uid://uidtl2hnk0ry" path="res://Dungeon_Tileset/Prefabs/Wall Prefabs/Wall Medium.prefab.tscn" id="18_2yubc"]
+[ext_resource type="PackedScene" uid="uid://c13wlvopqbbwu" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Medium Inside.prefab.tscn" id="19_hkuhh"]
+[ext_resource type="PackedScene" uid="uid://ckoxsbl2pmunj" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 2x2.prefab.tscn" id="20_j3qrw"]
+[ext_resource type="PackedScene" uid="uid://dqma86pxwol57" path="res://Dungeon_Tileset/Prefabs/Corner Prefabs/Corner Short Inside.prefab.tscn" id="21_bskhy"]
+[ext_resource type="PackedScene" uid="uid://n6sdh3gbi6ly" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 2x2 Big.prefab.tscn" id="22_i3hwg"]
+[ext_resource type="PackedScene" uid="uid://c2hx5nmg5lsfb" path="res://Dungeon_Tileset/Prefabs/Floor Prefabs/Floor 1x1 Big.prefab.tscn" id="23_qlreo"]
+[ext_resource type="PackedScene" uid="uid://b0hlao601sca2" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_06.prefab.tscn" id="24_2leto"]
+[ext_resource type="PackedScene" uid="uid://bduqd2cie23d1" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_07.prefab.tscn" id="25_b0h3e"]
+[ext_resource type="PackedScene" uid="uid://gfj27m24drvl" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 1x1 Variant.prefab.tscn" id="26_obe02"]
+[ext_resource type="PackedScene" uid="uid://4bu22mx1u1ft" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_14.prefab.tscn" id="27_rowtt"]
+[ext_resource type="PackedScene" uid="uid://c741ifcml7gmg" path="res://Dungeon_Tileset/Prefabs/Props/Wall_Chain_2.prefab.tscn" id="28_ahlm3"]
+[ext_resource type="PackedScene" uid="uid://xk0d5f8dday1" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 2x2.prefab.tscn" id="29_n8v1e"]
+[ext_resource type="PackedScene" uid="uid://beg0w34374myq" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Variant.prefab.tscn" id="30_7bilk"]
+[ext_resource type="PackedScene" uid="uid://sgu1dmdr7ok8" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 5x5 Border Variant.prefab.tscn" id="31_n1it1"]
+[ext_resource type="PackedScene" uid="uid://dx0gjs8k2gn7l" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_12.prefab.tscn" id="32_7ja2r"]
+[ext_resource type="PackedScene" uid="uid://cncuahageq8q5" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_10.prefab.tscn" id="33_w2td4"]
+[ext_resource type="PackedScene" uid="uid://d3hwbgcdl1rnu" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_02.prefab.tscn" id="34_imtea"]
+[ext_resource type="PackedScene" uid="uid://caytwhbch6r2o" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_01.prefab.tscn" id="35_244mx"]
+[ext_resource type="PackedScene" uid="uid://bvclu2jyp0min" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_00 3x3 Variant.prefab.tscn" id="36_wnwxo"]
+[ext_resource type="PackedScene" uid="uid://bet4lohgpfjct" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_11.prefab.tscn" id="37_xwcrx"]
+[ext_resource type="PackedScene" uid="uid://b0b61o83f2iig" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_04.prefab.tscn" id="38_gjtlw"]
+[ext_resource type="PackedScene" uid="uid://dny6fkc0f7dcr" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_03.prefab.tscn" id="39_xhcxf"]
+[ext_resource type="PackedScene" uid="uid://fwrtw4187avs" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_13.prefab.tscn" id="40_1ie2y"]
+[ext_resource type="PackedScene" uid="uid://dn5m4ub4takbf" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_05.prefab.tscn" id="41_46hek"]
+[ext_resource type="PackedScene" uid="uid://sgjy42m4o25f" path="res://Dungeon_Tileset/Prefabs/Tileset/Dungeon_Tilemap_09.prefab.tscn" id="42_80ogo"]
+[ext_resource type="PackedScene" uid="uid://6gxqkoehteql" path="res://Dungeon_Tileset/Prefabs/Props/Wall_Chain.prefab.tscn" id="43_s47xw"]
+[ext_resource type="PackedScene" uid="uid://cfjloxavvfnj" path="res://Dungeon_Tileset/Prefabs/Props/Torch.prefab.tscn" id="44_ms8mo"]
+[ext_resource type="PackedScene" uid="uid://3h887hqe6pye" path="res://Dungeon_Tileset/Prefabs/Props/Pillar_3.prefab.tscn" id="45_a0rut"]
+[ext_resource type="PackedScene" uid="uid://dck2wv1s43h54" path="res://Dungeon_Tileset/Prefabs/Props/Pillar_1.prefab.tscn" id="46_7jott"]
+[ext_resource type="PackedScene" uid="uid://cxgapi8nfk8ad" path="res://Dungeon_Tileset/Prefabs/Props/Pillar_2.prefab.tscn" id="47_6cvi2"]
+[ext_resource type="PackedScene" uid="uid://b26illfnk2qo7" path="res://Dungeon_Tileset/Prefabs/Props/Crate Brown.prefab.tscn" id="48_2psxm"]
+[ext_resource type="PackedScene" uid="uid://dfh84cylewjy5" path="res://Dungeon_Tileset/Prefabs/Props/Book.prefab.tscn" id="49_jxoau"]
+[ext_resource type="PackedScene" uid="uid://dcltbec7ccgov" path="res://Dungeon_Tileset/Prefabs/Props/Bottle.prefab.tscn" id="50_j732u"]
+[ext_resource type="PackedScene" uid="uid://dokdjgl7tlsby" path="res://Dungeon_Tileset/Prefabs/Props/Candle_1.prefab.tscn" id="51_whhyd"]
+[ext_resource type="PackedScene" uid="uid://ct1aa30tahwdf" path="res://Dungeon_Tileset/Prefabs/Props/Candle_2.prefab.tscn" id="52_but4w"]
+[ext_resource type="PackedScene" uid="uid://bhbjjv40h8n8f" path="res://Dungeon_Tileset/Prefabs/Props/Candle_3.prefab.tscn" id="53_73hxt"]
+[ext_resource type="PackedScene" uid="uid://wnij2ftvkibi" path="res://Dungeon_Tileset/Prefabs/Props/Candle_Holder.prefab.tscn" id="54_hlxxo"]
+[ext_resource type="PackedScene" uid="uid://kujhvhbknv2" path="res://Dungeon_Tileset/Prefabs/Props/Potion.prefab.tscn" id="55_kt411"]
+[ext_resource type="PackedScene" uid="uid://bo4cpcmxevkn6" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big.prefab.tscn" id="56_ohjcl"]
+[ext_resource type="PackedScene" uid="uid://xbvp11fgmsp7" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big_Closed.prefab.tscn" id="57_7bnco"]
+[ext_resource type="PackedScene" uid="uid://chbuxjv0dhk4w" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big_gold.prefab.tscn" id="58_0rwvx"]
+[ext_resource type="PackedScene" uid="uid://dgcc7688g6kui" path="res://Dungeon_Tileset/Prefabs/Props/Chest_Big_Lid.prefab.tscn" id="59_340fu"]
+[ext_resource type="PackedScene" uid="uid://bom2bcmo7g461" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium.prefab.tscn" id="60_mcohm"]
+[ext_resource type="PackedScene" uid="uid://mfrqalfil5xf" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium_Closed.prefab.tscn" id="61_s7dl1"]
+[ext_resource type="PackedScene" uid="uid://cqmg644xp2d6k" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium_gold.prefab.tscn" id="62_j6b1v"]
+[ext_resource type="PackedScene" uid="uid://763uet1lga64" path="res://Dungeon_Tileset/Prefabs/Props/Chest_medium_Lid.prefab.tscn" id="63_efc7t"]
+[ext_resource type="PackedScene" uid="uid://rw1m0hnh08hp" path="res://Dungeon_Tileset/Prefabs/Props/Bottle 2.prefab.tscn" id="64_o1kmt"]
+[ext_resource type="PackedScene" uid="uid://d24etmx5g8kb4" path="res://Dungeon_Tileset/Prefabs/Props/Stones.prefab.tscn" id="65_mlfuf"]
+[ext_resource type="Material" uid="uid://colk15vxsvje2" path="res://Dungeon_Tileset/Materials/GDTV Green.mat.tres" id="66_u8hld"]
+[ext_resource type="FontFile" uid="uid://ij353qf6fdpf" path="res://UserInterface/Font/Staatliches-Regular.ttf" id="67_fiulh"]
+[ext_resource type="PackedScene" uid="uid://vwr8ajoufse8" path="res://Controller/Player.tscn" id="68_s6fvq"]
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_j3urd"]
 resource_name = "Plane"
@@ -89,204 +89,207 @@ data = PackedVector3Array(5, 0, 5, 4.0909, 0, 5, 5, 0, 4.0909, 4.0909, 0, 5, 4.0
 
 [node name="RootNode3D" type="Node3D"]
 
-[node name="Dungeon_Tilemap_08" parent="." instance=ExtResource("1_vb8f1")]
+[node name="Dungeon_Tilemap_08" parent="." instance=ExtResource("1_pq2eq")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 0, -8.68)
 
-[node name="Corner Long Outside" parent="." instance=ExtResource("2_lrj6l")]
+[node name="Corner Long Outside" parent="." instance=ExtResource("2_isgly")]
 transform = Transform3D(-1, 0, 5.90086e-06, 0, 1, 0, -5.90086e-06, 0, -1, -21.5, 0, -3)
 
-[node name="Floor 5x5 Border Big" parent="." instance=ExtResource("3_2x7kx")]
+[node name="Floor 5x5 Border Big" parent="." instance=ExtResource("3_dth3x")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10.5, 0, 4)
 
-[node name="Corner Medium Outside" parent="." instance=ExtResource("4_6dgma")]
+[node name="Corner Medium Outside" parent="." instance=ExtResource("4_2v4jt")]
 transform = Transform3D(-1, 0, 5.90086e-06, 0, 1, 0, -5.90086e-06, 0, -1, -23.5, 0, -5.5)
 
-[node name="Wall Long" parent="." instance=ExtResource("5_6a0yl")]
+[node name="Wall Long" parent="." instance=ExtResource("5_w0o51")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, -11.18)
 
-[node name="Floor 1x1" parent="." instance=ExtResource("6_xr728")]
+[node name="Floor 1x1" parent="." instance=ExtResource("6_rq6k3")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.9, 0, 9)
 
-[node name="Floor 3x3" parent="." instance=ExtResource("7_6330h")]
+[node name="Floor 3x3" parent="." instance=ExtResource("7_1r4ob")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -26.48, 0, 9)
 
-[node name="Floor 5x5 Big" parent="." instance=ExtResource("8_p11ft")]
+[node name="Floor 5x5 Big" parent="." instance=ExtResource("8_7bgvc")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -27.5, 0, 3)
 
-[node name="Barrel" parent="." instance=ExtResource("9_jemha")]
+[node name="Barrel" parent="." instance=ExtResource("9_671jo")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.59543, 0.337008, 2.49836)
 
-[node name="Floor 3x3 Big" parent="." instance=ExtResource("10_ca7s5")]
+[node name="Floor 3x3 Big" parent="." instance=ExtResource("10_10si5")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.5, 0, 4)
 
-[node name="Floor 5x5" parent="." instance=ExtResource("11_eu6gw")]
+[node name="Floor 5x5" parent="." instance=ExtResource("11_0pnrs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 14.9, 0, 9)
 
-[node name="Corner Short Outside" parent="." instance=ExtResource("12_mmlce")]
+[node name="Corner Short Outside" parent="." instance=ExtResource("12_44hfc")]
 transform = Transform3D(-1, 0, 5.90086e-06, 0, 1, 0, -5.90086e-06, 0, -1, -25, 0, -7)
 
-[node name="Floor 5x5 Border 5x5" parent="." instance=ExtResource("13_0lsay")]
+[node name="Floor 5x5 Border 5x5" parent="." instance=ExtResource("13_3wism")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -18.5, 0, 4)
 
-[node name="Floor 5x5 Border 1x1" parent="." instance=ExtResource("14_82l2d")]
+[node name="Floor 5x5 Border 1x1" parent="." instance=ExtResource("14_t48ph")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5, 0, 4)
 
-[node name="Corner Long Inside" parent="." instance=ExtResource("15_07e7v")]
+[node name="Corner Long Inside" parent="." instance=ExtResource("15_ri2o3")]
 transform = Transform3D(-1, 0, 5.90086e-06, 0, 1, 0, -5.90086e-06, 0, -1, -16, 0, -10.5)
 
-[node name="Wall Short" parent="." instance=ExtResource("16_sstwi")]
+[node name="Wall Short" parent="." instance=ExtResource("16_l6sfx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, -6.68)
 
-[node name="Floor 5x5 Border" parent="." instance=ExtResource("17_0pb3u")]
+[node name="Floor 5x5 Border" parent="." instance=ExtResource("17_dmkos")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -20.82, 0, 9)
 
-[node name="Wall Medium" parent="." instance=ExtResource("18_26sks")]
+[node name="Wall Medium" parent="." instance=ExtResource("18_2yubc")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, -8.68)
 
-[node name="Corner Medium Inside" parent="." instance=ExtResource("19_2y8u8")]
+[node name="Corner Medium Inside" parent="." instance=ExtResource("19_hkuhh")]
 transform = Transform3D(-1, 0, 5.90086e-06, 0, 1, 0, -5.90086e-06, 0, -1, -14, 0, -8.5)
 
-[node name="Floor 2x2" parent="." instance=ExtResource("20_pbnkj")]
+[node name="Floor 2x2" parent="." instance=ExtResource("20_j3qrw")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -16.23, 0, 9)
 
-[node name="Corner Short Inside" parent="." instance=ExtResource("21_d7qsw")]
+[node name="Corner Short Inside" parent="." instance=ExtResource("21_bskhy")]
 transform = Transform3D(-1, 0, 5.90086e-06, 0, 1, 0, -5.90086e-06, 0, -1, -13.5, 0, -3)
 
-[node name="Floor 2x2 Big" parent="." instance=ExtResource("22_khais")]
+[node name="Floor 2x2 Big" parent="." instance=ExtResource("22_i3hwg")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -23.5, 0, 4)
 
-[node name="Floor 1x1 Big" parent="." instance=ExtResource("23_7n7en")]
+[node name="Floor 1x1 Big" parent="." instance=ExtResource("23_qlreo")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15.5, 0, 4)
 
-[node name="Dungeon_Tilemap_06" parent="." instance=ExtResource("24_kwmy2")]
+[node name="Dungeon_Tilemap_06" parent="." instance=ExtResource("24_2leto")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5, 0, -5.68)
 
-[node name="Dungeon_Tilemap_07" parent="." instance=ExtResource("25_xkh5q")]
+[node name="Dungeon_Tilemap_07" parent="." instance=ExtResource("25_b0h3e")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5, 0, -5.68)
 
-[node name="Dungeon_Tilemap_00 1x1 Variant" parent="." instance=ExtResource("26_5dbkp")]
+[node name="Dungeon_Tilemap_00 1x1 Variant" parent="." instance=ExtResource("26_obe02")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.38, 0, -8.33)
 
-[node name="Dungeon_Tilemap_14" parent="." instance=ExtResource("27_u3kbs")]
+[node name="Dungeon_Tilemap_14" parent="." instance=ExtResource("27_rowtt")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5, 0, -11.68)
 
-[node name="Wall_Chain_2" parent="." instance=ExtResource("28_kxu3d")]
+[node name="Wall_Chain_2" parent="." instance=ExtResource("28_ahlm3")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.91, 1.77, 1.59)
 
-[node name="Dungeon_Tilemap_00 2x2" parent="." instance=ExtResource("29_f7ngo")]
+[node name="Dungeon_Tilemap_00 2x2" parent="." instance=ExtResource("29_n8v1e")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.38, 0, -6.83)
 
-[node name="Dungeon_Tilemap_00 5x5 Variant" parent="." instance=ExtResource("30_71k7m")]
+[node name="Dungeon_Tilemap_00 5x5 Variant" parent="." instance=ExtResource("30_7bilk")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.88, 0, -5.33)
 
-[node name="Dungeon_Tilemap_00 5x5 Border Variant" parent="." instance=ExtResource("31_xw3ss")]
+[node name="Dungeon_Tilemap_00 5x5 Border Variant" parent="." instance=ExtResource("31_n1it1")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.38, 0, -5.33)
 
-[node name="Dungeon_Tilemap_12" parent="." instance=ExtResource("32_8l64x")]
+[node name="Dungeon_Tilemap_12" parent="." instance=ExtResource("32_7ja2r")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 0, -11.68)
 
-[node name="Dungeon_Tilemap_10" parent="." instance=ExtResource("33_w84hs")]
+[node name="Dungeon_Tilemap_10" parent="." instance=ExtResource("33_w2td4")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5, 0, -8.68)
 
-[node name="Dungeon_Tilemap_02" parent="." instance=ExtResource("34_fkomi")]
+[node name="Dungeon_Tilemap_02" parent="." instance=ExtResource("34_imtea")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5, 0, -2.68)
 
-[node name="Dungeon_Tilemap_01" parent="." instance=ExtResource("35_yie8g")]
+[node name="Dungeon_Tilemap_01" parent="." instance=ExtResource("35_244mx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -2.68)
 
-[node name="Dungeon_Tilemap_00 3x3 Variant" parent="." instance=ExtResource("36_etc7f")]
+[node name="Dungeon_Tilemap_00 3x3 Variant" parent="." instance=ExtResource("36_wnwxo")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.88, 0, -6.83)
 
-[node name="Dungeon_Tilemap_11" parent="." instance=ExtResource("37_kvl2t")]
+[node name="Dungeon_Tilemap_11" parent="." instance=ExtResource("37_xwcrx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5, 0, -8.68)
 
-[node name="Dungeon_Tilemap_04" parent="." instance=ExtResource("38_5whsd")]
+[node name="Dungeon_Tilemap_04" parent="." instance=ExtResource("38_gjtlw")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 0, -5.68)
 
-[node name="Dungeon_Tilemap_03" parent="." instance=ExtResource("39_w21od")]
+[node name="Dungeon_Tilemap_03" parent="." instance=ExtResource("39_xhcxf")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5, 0, -2.68)
 
-[node name="Dungeon_Tilemap_13" parent="." instance=ExtResource("40_3pvrm")]
+[node name="Dungeon_Tilemap_13" parent="." instance=ExtResource("40_1ie2y")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -11.68)
 
-[node name="Dungeon_Tilemap_05" parent="." instance=ExtResource("41_ecxnf")]
+[node name="Dungeon_Tilemap_05" parent="." instance=ExtResource("41_46hek")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -5.68)
 
-[node name="Floor 3x3 (1)" parent="." instance=ExtResource("7_6330h")]
+[node name="Floor 3x3 (1)" parent="." instance=ExtResource("7_1r4ob")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10.85, 0, 9)
 
-[node name="Dungeon_Tilemap_09" parent="." instance=ExtResource("42_ny34a")]
+[node name="Dungeon_Tilemap_09" parent="." instance=ExtResource("42_80ogo")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -8.68)
 
-[node name="Wall_Chain" parent="." instance=ExtResource("43_u5e1h")]
+[node name="Wall_Chain" parent="." instance=ExtResource("43_s47xw")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.56, 1.77, 1.59)
 
 [node name="Props" type="Node3D" parent="."]
 
-[node name="Torch" parent="Props" instance=ExtResource("44_cny1v")]
+[node name="Torch" parent="Props" instance=ExtResource("44_ms8mo")]
 transform = Transform3D(-0.258816, 0, -0.965927, 0, 1, 0, 0.965927, 0, -0.258816, -4.35466, 1.42, 1.588)
 
-[node name="Pillar_3" parent="Props" instance=ExtResource("45_lv0ni")]
+[node name="Pillar_3" parent="Props" instance=ExtResource("45_a0rut")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, -4.18)
 
-[node name="Pillar_1" parent="Props" instance=ExtResource("46_211yt")]
+[node name="Pillar_1" parent="Props" instance=ExtResource("46_7jott")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 14, 0, -4.18)
 
-[node name="Pillar_2" parent="Props" instance=ExtResource("47_35uv3")]
+[node name="Pillar_2" parent="Props" instance=ExtResource("47_6cvi2")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 12, 0, -4.18)
 
-[node name="Crate Brown" parent="Props" instance=ExtResource("48_6knq8")]
+[node name="Crate Brown" parent="Props" instance=ExtResource("48_2psxm")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.312, 0.304221, 3.04)
 
-[node name="Book" parent="Props" instance=ExtResource("49_eo282")]
+[node name="Book" parent="Props" instance=ExtResource("49_jxoau")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.53, 0, 7.09)
 
-[node name="Bottle" parent="Props" instance=ExtResource("50_jls88")]
+[node name="Bottle" parent="Props" instance=ExtResource("50_j732u")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.53, 0, 7.09)
 
-[node name="Candle_1" parent="Props" instance=ExtResource("51_v5j06")]
+[node name="Candle_1" parent="Props" instance=ExtResource("51_whhyd")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.53, 0, 7.09)
 
-[node name="Candle_2" parent="Props" instance=ExtResource("52_ekppb")]
+[node name="Candle_2" parent="Props" instance=ExtResource("52_but4w")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.53, 0, 7.09)
 
-[node name="Candle_3" parent="Props" instance=ExtResource("53_6hjqp")]
+[node name="Candle_3" parent="Props" instance=ExtResource("53_73hxt")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.53, 0, 7.09)
 
-[node name="Candle_Holder" parent="Props" instance=ExtResource("54_xcvde")]
+[node name="Candle_Holder" parent="Props" instance=ExtResource("54_hlxxo")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.53, 0, 7.09)
 
-[node name="Potion" parent="Props" instance=ExtResource("55_r64id")]
+[node name="Potion" parent="Props" instance=ExtResource("55_kt411")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.53, 0, 7.09)
 
-[node name="Chest_Big" parent="Props" instance=ExtResource("56_2tkjl")]
+[node name="Chest_Big" parent="Props" instance=ExtResource("56_ohjcl")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.012, 0, 4.54)
 
-[node name="Chest_Big_Closed" parent="Props" instance=ExtResource("57_eawmq")]
+[node name="Chest_Big_Closed" parent="Props" instance=ExtResource("57_7bnco")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.512, 0.304221, 3.04)
 
-[node name="Chest_Big_gold" parent="Props" instance=ExtResource("58_gqwhr")]
+[node name="MeshRenderer" parent="Props/Chest_Big_Closed" index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.245983, 0, 0)
+
+[node name="Chest_Big_gold" parent="Props" instance=ExtResource("58_0rwvx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.712, 0.304221, 3.04)
 
-[node name="Chest_Big_Lid" parent="Props" instance=ExtResource("59_o3wrs")]
+[node name="Chest_Big_Lid" parent="Props" instance=ExtResource("59_340fu")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.705, 0, 4.14)
 
-[node name="Chest_medium" parent="Props" instance=ExtResource("60_v2gca")]
+[node name="Chest_medium" parent="Props" instance=ExtResource("60_mcohm")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.77, 0, 6.04)
 
-[node name="Chest_medium_Closed" parent="Props" instance=ExtResource("61_yyyxb")]
+[node name="Chest_medium_Closed" parent="Props" instance=ExtResource("61_s7dl1")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.57001, 0, 6.04)
 
-[node name="Chest_medium_gold" parent="Props" instance=ExtResource("62_gvqyv")]
+[node name="Chest_medium_gold" parent="Props" instance=ExtResource("62_j6b1v")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.37, 0, 6.04)
 
-[node name="Chest_medium_Lid" parent="Props" instance=ExtResource("63_exi1x")]
+[node name="Chest_medium_Lid" parent="Props" instance=ExtResource("63_efc7t")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.17, 0, 5.79)
 
-[node name="Bottle 2" parent="Props" instance=ExtResource("64_s6q03")]
+[node name="Bottle 2" parent="Props" instance=ExtResource("64_o1kmt")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.072, 0, 7.096)
 
-[node name="Stones" parent="Props" instance=ExtResource("65_vm5qp")]
+[node name="Stones" parent="Props" instance=ExtResource("65_mlfuf")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.16, 0, 7.09)
 
 [node name="Background, Camera, Light" type="Node3D" parent="."]
@@ -366,7 +369,7 @@ transform = Transform3D(13.4446, 0, 0, 0, -0.929863, -1.50922, 0, 0.80789, -1.73
 [node name="MeshRenderer" type="MeshInstance3D" parent="Background, Camera, Light/Background"]
 editor_description = "[MeshRenderer 23::ba1083e163bcb4e4da7c21a1ffa2c6a6:1286358888]"
 mesh = SubResource("PlaneMesh_j3urd")
-surface_material_override/0 = ExtResource("66_x4tu3")
+surface_material_override/0 = ExtResource("66_u8hld")
 metadata/unidot_keys = {
 "m_AdditionalVertexStreams": [null, 0, null, null],
 "m_AutoUVMaxAngle": 89,
@@ -419,7 +422,7 @@ transform = Transform3D(13.4968, 0, 0, 0, 5.9232, 0, 0, 0, 6.01137, 0, -0.05, -5
 [node name="MeshRenderer" type="MeshInstance3D" parent="Background, Camera, Light/Ground"]
 editor_description = "[MeshRenderer 23::ba1083e163bcb4e4da7c21a1ffa2c6a6:307144172]"
 mesh = SubResource("PlaneMesh_j3urd")
-surface_material_override/0 = ExtResource("66_x4tu3")
+surface_material_override/0 = ExtResource("66_u8hld")
 metadata/unidot_keys = {
 "m_AdditionalVertexStreams": [null, 0, null, null],
 "m_AutoUVMaxAngle": 89,
@@ -474,7 +477,7 @@ pixel_size = 0.002
 double_sided = false
 outline_modulate = Color(0.12549, 0.145098, 0.211765, 1)
 text = "High Jump"
-font = ExtResource("67_ql604")
+font = ExtResource("67_fiulh")
 font_size = 120
 outline_size = 32
 
@@ -487,7 +490,7 @@ text = "Test your Jump height:
 	- Default maximum = 1.2m.
 	- Hold jump to reach max height.
 	- Release jump to do a shorter hop."
-font = ExtResource("67_ql604")
+font = ExtResource("67_fiulh")
 font_size = 96
 outline_size = 24
 horizontal_alignment = 0
@@ -504,49 +507,49 @@ shape = SubResource("ConcavePolygonShape3D_heepy")
 [node name="Prop Background" type="Node3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 23.8, 0, 3.67)
 
-[node name="Floor 5x5 Border 5x5 (1)" parent="Prop Background" instance=ExtResource("13_0lsay")]
+[node name="Floor 5x5 Border 5x5 (1)" parent="Prop Background" instance=ExtResource("13_3wism")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -30.37, 0, 0.31)
 
-[node name="Floor 5x5 Border 5x5 (3)" parent="Prop Background" instance=ExtResource("13_0lsay")]
+[node name="Floor 5x5 Border 5x5 (3)" parent="Prop Background" instance=ExtResource("13_3wism")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -26.37, 0, 0.31)
 
-[node name="Wall Long (1)" parent="Prop Background" instance=ExtResource("5_6a0yl")]
+[node name="Wall Long (1)" parent="Prop Background" instance=ExtResource("5_w0o51")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -24.87, 0, -2.19)
 
-[node name="Wall Long (2)" parent="Prop Background" instance=ExtResource("5_6a0yl")]
+[node name="Wall Long (2)" parent="Prop Background" instance=ExtResource("5_w0o51")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -24.87, 0, -2.19)
 
-[node name="Dungeon_Tilemap_14 (1)" parent="Prop Background" instance=ExtResource("27_u3kbs")]
+[node name="Dungeon_Tilemap_14 (1)" parent="Prop Background" instance=ExtResource("27_rowtt")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -32.87, 0, -2.19)
 
-[node name="Dungeon_Tilemap_13 (1)" parent="Prop Background" instance=ExtResource("40_3pvrm")]
+[node name="Dungeon_Tilemap_13 (1)" parent="Prop Background" instance=ExtResource("40_1ie2y")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -23.87, 0, -2.19)
 
-[node name="Wall Medium_1" parent="Prop Background" instance=ExtResource("18_26sks")]
+[node name="Wall Medium_1" parent="Prop Background" instance=ExtResource("18_2yubc")]
 transform = Transform3D(-9.05991e-06, 0, 1, 0, 1, 0, -1, 0, -9.05991e-06, -32.817, 0, -1.18956)
 
-[node name="Wall Medium_2" parent="Prop Background" instance=ExtResource("18_26sks")]
+[node name="Wall Medium_2" parent="Prop Background" instance=ExtResource("18_2yubc")]
 transform = Transform3D(2.92063e-06, 0, -1, 0, 1, 0, 1, 0, 2.92063e-06, -23.87, 0, 1.81)
 
-[node name="Wall Short_1" parent="Prop Background" instance=ExtResource("16_sstwi")]
+[node name="Wall Short_1" parent="Prop Background" instance=ExtResource("16_l6sfx")]
 transform = Transform3D(-9.05991e-06, 0, 1, 0, 1, 0, -1, 0, -9.05991e-06, -32.817, 0, 2.81044)
 
-[node name="Wall Short_2" parent="Prop Background" instance=ExtResource("16_sstwi")]
+[node name="Wall Short_2" parent="Prop Background" instance=ExtResource("16_l6sfx")]
 transform = Transform3D(2.92063e-06, 0, -1, 0, 1, 0, 1, 0, 2.92063e-06, -23.87, 0, 3.81)
 
-[node name="Floor 5x5_1" parent="Prop Background" instance=ExtResource("11_eu6gw")]
+[node name="Floor 5x5_1" parent="Prop Background" instance=ExtResource("11_0pnrs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -31.37, 0, 3.31)
 
-[node name="Floor 5x5_2" parent="Prop Background" instance=ExtResource("11_eu6gw")]
+[node name="Floor 5x5_2" parent="Prop Background" instance=ExtResource("11_0pnrs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -29.37, 0, 3.31)
 
-[node name="Floor 5x5_2 (1)" parent="Prop Background" instance=ExtResource("11_eu6gw")]
+[node name="Floor 5x5_2 (1)" parent="Prop Background" instance=ExtResource("11_0pnrs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -27.37, 0, 3.31)
 
-[node name="Floor 5x5_2 (2)" parent="Prop Background" instance=ExtResource("11_eu6gw")]
+[node name="Floor 5x5_2 (2)" parent="Prop Background" instance=ExtResource("11_0pnrs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -25.37, 0, 3.31)
 
-[node name="Player" parent="." instance=ExtResource("67_46ati")]
+[node name="Player" parent="." instance=ExtResource("68_s6fvq")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 1.40689, 11)
 
 [node name="OmniLight3D" type="OmniLight3D" parent="."]
