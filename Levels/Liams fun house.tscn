@@ -446,7 +446,7 @@ next_level = "res://Levels/DebugLevel.tscn"
 [node name="PortalLabel" type="Label3D" parent="Portal"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.65833, 1.61009)
 pixel_size = 0.008
-text = "Debug Room"
+text = "fun room"
 font = ExtResource("17_x8fyt")
 font_size = 96
 outline_size = 24
